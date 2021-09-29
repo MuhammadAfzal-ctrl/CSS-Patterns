@@ -1,1 +1,3 @@
 # CSS-Patterns
+This repository is created to unveil the hidden patterns among different concepts of CSS such as 
+understanding Transformations is critical to better know the transitions and Animations....
